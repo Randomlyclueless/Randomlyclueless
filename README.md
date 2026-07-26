@@ -65,7 +65,36 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Randomlyclueless&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Randomlyclueless&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Randomlyclueless&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Randomlyclueless&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 🏅 GirlScript Summer of Code 2025
+
+<p align="center">
+  <img src="assets/power-contributor.png" width="180" alt="Power Contributor Badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/rising-star.png" width="180" alt="Rising Star Badge"/>
+</p>
+
+<p align="center">
+  <b>Power Contributor (Rare)</b> • <b>Rising Star (Uncommon)</b>
+</p>
+
+| 🏆 Achievement | 📊 Count |
+|:---------------|:--------:|
+| 🟣 Rare Badges | **1** |
+| 🔵 Uncommon Badges | **1** |
+| 🎯 Total Badges Earned | **8** |
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Randomlyclueless&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 ### 📈 Contribution Graph
 
 <p align="center">
