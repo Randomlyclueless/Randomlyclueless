@@ -71,9 +71,9 @@
 ## 🏅 GirlScript Summer of Code 2025
 
 <p align="center">
-  <img src="gssoc-badge-power_contributor.png" width="180" alt="Power Contributor Badge" />
+  <img src="powercontributor.png" width="180" alt="Power Contributor Badge" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge" />
+  <img src="rising_star.png" width="180" alt="Rising Star Badge" />
 </p>
 
 <p align="center">
