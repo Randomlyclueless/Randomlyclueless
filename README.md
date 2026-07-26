@@ -73,7 +73,7 @@
 <p align="center">
   <img src="gssoc-badge-power_contributor.png" width="180" alt="Power Contributor Badge" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="gssoc-badge-rising_star (1).png" width="180" alt="Rising Star Badge" />
+  <img src="gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge" />
 </p>
 
 <p align="center">
